@@ -1,0 +1,50 @@
+body {
+    background: url("https://images.unsplash.com/photo-1648563643923-2091f9c0c12f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1631&q=80");
+    z-index: -1;
+}
+
+h2 {
+    color: moccasin;
+    text-align: center;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid {
+	width: 300px;
+	height: 300px;
+	border: solid black 1px;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	flex-wrap: wrap;
+    margin-top: 80px;
+    
+}
+
+.grid div {
+	width: 20px;
+	height: 20px;
+
+}
+
+.invader {
+	background-image: url('img/ufo.png');
+	border-radius: 10px;
+}
+
+.shooter {
+	background-image: url('img/r.png');
+}
+
+.laser {
+	background-image: url("img/bullet.png");
+}
+
+.boom {
+	background-color: red;
+}
