@@ -9,7 +9,7 @@ This is a classic Space Invaders game project built with HTML, CSS, and JavaScri
 - `git clone https://github.com/Yogesh0808/Space-Invaders.git`
 
 ### or 
-You can View the Project by [Clicking Here.]()
+You can View the Project by [Clicking Here.](https://yogesh0808.github.io/Space-Invaders/)
 
 
 ### Installation
